@@ -15,6 +15,8 @@
 ### Sells Virtual Implant ID Cards
 ### Stakeholders set price of ID Generation
 
+# Logistics
+## Bill of Lading Tracking
 
 ### Discussion Contexts
 Discord https://discord.gg/VeTzRRw
