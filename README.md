@@ -20,5 +20,7 @@
 
 ### Discussion Contexts
 Discord https://discord.gg/VeTzRRw
+
 Slack https://arsenum.slack.com/
+
 Telegram https://t.me/joinchat/GpY5Ag2lrgAN0a7n7YwDYA
