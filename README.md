@@ -5,18 +5,30 @@
 ### Images
 ### Historical Data
 
+
+
 ## Shared Resource Ledger
 ### Ag
 
+
+
 ## Art Ownership
 ### Certificate anchored on blockchain Notorized by Steakeholders (Dealerships/Brokers)
+
+
 
 ## Tooth Implant ID
 ### Sells Virtual Implant ID Cards
 ### Stakeholders set price of ID Generation
 
+
+
 # Logistics
 ## Bill of Lading Tracking
+
+
+# Authentication
+
 
 ### Discussion Contexts
 Discord https://discord.gg/VeTzRRw
